@@ -77,4 +77,4 @@ fake-news-detector/
 ## 👤 Author
 
 Made by **Raven**  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@yourusername](https://github.com/romit581)
